@@ -1,5 +1,7 @@
 # Super Mart Analysis
 
+![Super Mart Analysis Banner](1724860024942.jpeg)
+
 ## Overview
 This project is a comprehensive data analysis of a supermarket's sales data, focusing on identifying key business insights, customer behavior patterns, and product performance metrics. The analysis helps in understanding sales trends, customer preferences, and product profitability.
 
@@ -38,6 +40,20 @@ SuperMartAnalysis/
    - Seasonal patterns
    - Time-based analysis
    - Regional performance
+
+## Dashboard Screenshots
+
+### Sales Overview
+![Sales Overview Dashboard](assets/Screenshot%202025-06-01%20144548.png)
+*Comprehensive view of sales metrics and trends*
+
+### Product Analysis
+![Product Analysis Dashboard](assets/Screenshot%202025-06-01%20144624.png)
+*Detailed product performance and category analysis*
+
+### Customer Insights
+![Customer Insights Dashboard](assets/Screenshot%202025-06-01%20144533.png)
+*Customer behavior and segmentation analysis*
 
 ## Getting Started
 
