@@ -1,6 +1,6 @@
 # Telecom Churn Prediction
 
-![Telecom Churn Analysis](assets/TelecomChurnBanner.png)
+![Telecom Churn Analysis](Screenshot 2025-06-01 153945.png)
 
 ## Overview
 This project implements a machine learning solution to predict customer churn in the telecommunications industry. By analyzing customer behavior patterns and service usage data, the model helps identify high-risk customers likely to churn, enabling proactive retention strategies.
@@ -34,6 +34,8 @@ TelecomChurn/
 └── README.md           # Project documentation
 ```
 
+![Telecom Churn Analysis](Screenshot 2025-06-01 153933.png)
+
 ## Key Features of the Model
 1. **Data Preprocessing**
    - Handling missing values
@@ -53,6 +55,8 @@ TelecomChurn/
    - Recall
    - F1-Score
    - ROC-AUC
+
+![Telecom Churn Analysis](Screenshot 2025-06-01 154002.png)
 
 ## Getting Started
 
